@@ -1,0 +1,26 @@
+/* TEAM */
+
+Developer: REXORA REVE
+Website: https://rexorareve.com
+Location: India
+
+Owner: Vikram Concept Classes
+Contact: vikramconceptclasses@gmail.com
+Phone: +91 6205 752 482
+Location: India
+
+/* THANKS */
+
+Font Awesome - Icons
+Google Fonts - Inter Typography
+REXORA REVE - Design & Development
+
+/* SITE */
+
+Last update: 2025/01/15
+Language: English
+Doctype: HTML5
+IDE: Visual Studio Code
+Standards: HTML5, CSS3, JavaScript ES6+
+Components: JSON-LD, Open Graph, Twitter Cards
+Software: Custom Built
